@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Disease Prediction System using Machine Learning (Diabetes Prediction)
 
 This project demonstrates how machine learning can be applied to predict the likelihood of diabetes in patients based on medical features. It uses logistic regression for classification and evaluates model performance using key metrics and visualizations.
@@ -112,3 +113,7 @@ Special thanks to open-source contributors and dataset providers. This work is p
 Rohan V
 📧 [rohanvoff@gmail.com]
 🔗 GitHub: https://github.com/ROHANV15
+=======
+# Disease-Prediction-ML
+Machine Learning based Disease Prediction System (Diabetes/Heart/Cancer)
+>>>>>>> 3f3407eb77f7bae71bfa927a8f28db9cbd0e2e3b
