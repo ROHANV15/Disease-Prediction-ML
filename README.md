@@ -1,15 +1,11 @@
-<<<<<<< HEAD
+
 # 🧠 Disease Prediction System using Machine Learning (Diabetes Prediction)
 
 This project demonstrates how machine learning can be applied to predict the likelihood of diabetes in patients based on medical features. It uses logistic regression for classification and evaluates model performance using key metrics and visualizations.
 
----
-
 ## 📌 Project Objective
 
 To build an AI/ML-based disease prediction system using supervised learning techniques to **predict whether a patient is diabetic** based on diagnostic features. This type of system can support early diagnosis and preventive healthcare.
-
----
 
 ## 📊 Dataset Information
 
@@ -32,8 +28,6 @@ The dataset used for this project contains various health-related metrics collec
 
 > Ensure the file `dataset.csv` is available in your project directory before running the code.
 
----
-
 ## ⚙️ Technologies & Libraries Used
 
 - **Python 3.x**
@@ -42,8 +36,6 @@ The dataset used for this project contains various health-related metrics collec
 - **Matplotlib**
 - **Seaborn**
 - **Scikit-learn**
-
----
 
 ## 📁 Project Structure
 
@@ -55,15 +47,11 @@ isease-prediction/
 
 ## 🚀 How to Run
 
-### ✅ Step 1: Install Required Packages
-
+✅ Step 1: Install Required Packages
 Open your terminal and run:
-
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ✅ Step 2: Clone or Download the Repository
 You can either download the ZIP or clone it:
-
 git clone https://github.com/your-username/disease-prediction.git
 cd disease-prediction
 ✅ Step 3: Run the Code
@@ -76,7 +64,7 @@ Display a confusion matrix
 Plot a ROC curve
 Print evaluation metrics like accuracy, precision, recall, and F1-score
 
-📈 Model Performance Metrics
+##📈 Model Performance Metrics
 After training, the following metrics are calculated and displayed:
 Accuracy
 Precision
@@ -86,7 +74,7 @@ Confusion Matrix
 ROC-AUC Score
 These give a complete picture of how well the model is performing.
 
-📉 Visualization Examples
+##📉 Visualization Examples
 🔷 Confusion Matrix
 Visualizes how many predictions were correct vs. incorrect for each class.
 
@@ -117,3 +105,4 @@ Rohan V
 # Disease-Prediction-ML
 Machine Learning based Disease Prediction System (Diabetes/Heart/Cancer)
 >>>>>>> 3f3407eb77f7bae71bfa927a8f28db9cbd0e2e3b
+ 
